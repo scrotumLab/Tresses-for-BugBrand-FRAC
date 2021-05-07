@@ -5,7 +5,9 @@ With the permission of Émilie Gillet (Mutable Instruments), Scrotum Lab made th
 In this repository you will find:
 
     • The PCB file in Diptrace format.
-    • The panel as PCB in Diptrace format.
+    • The front panel as PCB in Diptrace format.
+    • The PCB file as GERBER
+    • The front panel as GERBER
 
 The schematics for Tresses is the same as the original file published by Mutable Instruments. Some components were changed directly on the circuit board itself.
     
